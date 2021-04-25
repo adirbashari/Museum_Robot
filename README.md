@@ -18,7 +18,7 @@ Project components:
   This folder contins the code of the web interface. 
   The web interface provides the robot manager a way to perform ongoing management
   of the museum stations and the current tour for visitors.
-  Written in JavaScript and interfaces with the database backend restdb.io, that stores all the site data.
+  Written in JavaScript, HTML and interfaces with the database backend restdb.io, that stores all the site data.
   website link: https://museum-robot.github.io/Museum-robot/museum%20website/museum_robot_website
   user name and password to the website: admin, admin
   
