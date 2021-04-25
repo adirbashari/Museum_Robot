@@ -2,6 +2,7 @@
 Final project in Computer Engineering degree 
 
 About the project:
+
 This project is about a robot, whose role is to take a tour of the museum's visitors.
 The robot manager selects through a web interface created for him, the stations where
 the robot will stop for his current tour.
@@ -12,27 +13,32 @@ In this way, the robot takes a tour of all the selected stations, until the end 
 
 
 Project components:
+
 1. museum website folder
+
   This folder contins the code of the web interface. 
   The web interface provides the robot manager a way to perform ongoing management
   of the museum stations and the current tour for visitors.
   Written in JavaScript and interfaces with the database backend restdb.io, that stores all the site data.
   website link: https://museum-robot.github.io/Museum-robot/museum%20website/museum_robot_website
   user name and password to the website: admin, admin
-
+  
   website home page:
+  
   This page contains a search engine, through which the robot manager can view all the existing stations in the museum.
   each station in the museum contains: its name, content for reading for an adult, content for reading for a child.
   In addition whether to include the station in the current tour and what content the robot will read, adult, child or both.
   The robot manager can add and delete stations and edit all station data. 
 
   website current tour page:
+  
   This page provides for the robot manager, a way to quickly edit the current robot tour.
   He can view all the stations that currently exist on the tour, delete and add stations and in addition
   choose what content the robot will read, adult child or both.
 
 
 2. rp robot code folder
+
   This folder contains the code, which runs on the raspberry pi smart controller. 
   Written in Python.
 
