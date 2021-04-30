@@ -3,6 +3,9 @@ Final project in Computer Engineering degree
 
 Link to the project's YouTube channel: https://www.youtube.com/channel/UCEsl3fHv6tYhknyyNeigeJA/videos
 
+website link: https://adirbashari.github.io/Museum_Robot/museum%20website/museum_robot_website 
+user name and password to the website: admin, admin
+
 About the project:
 
 This project is about a robot, whose role is to take a tour of the museum's visitors.
